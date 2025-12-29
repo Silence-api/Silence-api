@@ -10,7 +10,7 @@
 
 # Silence
 
-<p><strong>Fullstack Developer</strong> · Web · Systems · Low-Level</p>
+<p><strong>Fullstack Developer</strong> · Web · Systems</p>
 
 <p><strong>IT Student</strong> (Cyber Security)</p>
 
