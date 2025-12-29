@@ -12,6 +12,8 @@
 
 <p><strong>Fullstack Developer</strong> · Web · Systems · Low-Level</p>
 
+<p><strong>IT Student</strong> (Cyber Security)</p>
+
 <p>
   <a href="#about">About</a> ·
   <a href="#skills">Skills</a> ·
@@ -45,6 +47,7 @@
 ## About
 
 - Fokus: Web, Systeme, Low-Level
+- Studium: IT (Schwerpunkt Cyber Security)
 - Mindset: Lernen. Bauen. Shippen.
 
 ## Skills
@@ -94,6 +97,38 @@
     <img alt="MSVC" src="https://img.shields.io/badge/MSVC-000000?style=for-the-badge" />
     <img alt="GDB" src="https://img.shields.io/badge/GDB-000000?style=for-the-badge&logo=gnu" />
     <img alt="Git" src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git" />
+  </p>
+</details>
+
+<details open>
+  <summary><strong>Cyber Security (Study Focus)</strong></summary>
+  <br/>
+  <p>
+    <img alt="Secure Coding" src="https://img.shields.io/badge/Secure%20Coding-000000?style=for-the-badge" />
+    <img alt="Web Security" src="https://img.shields.io/badge/Web%20Security-000000?style=for-the-badge" />
+    <img alt="Network Security" src="https://img.shields.io/badge/Network%20Security-000000?style=for-the-badge" />
+    <img alt="Threat Modeling" src="https://img.shields.io/badge/Threat%20Modeling-000000?style=for-the-badge" />
+    <img alt="Reverse Engineering" src="https://img.shields.io/badge/Reverse%20Engineering-000000?style=for-the-badge" />
+    <img alt="OS Internals" src="https://img.shields.io/badge/OS%20Internals-000000?style=for-the-badge" />
+  </p>
+  <p>
+    <sub>Schwerpunkt im Studium: Cyber Security. Fokus auf sauberen Code, Angriffsflächen verstehen und Systeme wirklich „von innen“ checken.</sub>
+  </p>
+</details>
+
+<details>
+  <summary><strong>Additional Languages</strong></summary>
+  <br/>
+  <p>
+    <img alt="Bash" src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=white" />
+    <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-000000?style=for-the-badge&logo=powershell&logoColor=white" />
+    <img alt="Go" src="https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go" />
+    <img alt="Java" src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk" />
+    <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin" />
+    <img alt="PHP" src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php" />
+  </p>
+  <p>
+    <sub>Je nach Projekt/Use-Case: Scripting, Automatisierung, Tools, kleine Utilities.</sub>
   </p>
 </details>
 
