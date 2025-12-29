@@ -22,7 +22,7 @@
 
 <a href="https://github.com/Silence-api">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&center=true&vCenter=true&width=720&lines=Fullstack+Developer;Web+%7C+Systems+%7C+Low-Level;HTML+%2F+CSS+%2F+JS%2FTS+%7C+Vue+%7C+React;Python+%7C+Rust+%7C+C%2B%2B+%7C+C%23+%7C+Lua+%7C+SQL;Lernen.+Bauen.+Shippen."
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&center=true&vCenter=true&width=720&lines=Fullstack+Developer;Web+%7C+Systems+%7C+Low-Level;GEILES+%2F+DING+%2F+JS%2FTS+%7C+BORZ+%7C+Nokhchmakhkakho;CHECHEN+%7C+Rust+%7C+C%2B%2B+%7C+C%23+%7C+Lua+%7C+SQL;LEARN.+FROM.+CHE."
     alt="Animated typing headline"
     loading="lazy"
   />
