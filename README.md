@@ -1,5 +1,11 @@
 <div align="center">
 
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Silence&fontSize=48&fontAlignY=35&desc=Fullstack%20Developer%20%E2%80%A2%20Web%20%E2%80%A2%20Systems%20%E2%80%A2%20Low-Level&descAlignY=60"
+  alt="Silence header"
+  loading="lazy"
+/>
+
 <img width="96" height="96" src="https://github.com/Silence-api.png" alt="Silence avatar" loading="lazy" />
 
 # Silence
@@ -8,7 +14,7 @@
 
 <p>
   <a href="#about">About</a> ·
-  <a href="#tech-stack">Tech Stack</a> ·
+  <a href="#skills">Skills</a> ·
   <a href="#github-stats">Stats</a>
 </p>
 
@@ -39,13 +45,12 @@
 ## About
 
 - Fokus: Web, Systeme, Low-Level
-- Stack: HTML/CSS/JS/TS, Vue, React · Python, Rust, C/C++/C#, Lua, SQL
 - Mindset: Lernen. Bauen. Shippen.
 
-## Tech Stack
+## Skills
 
 <details open>
-  <summary><strong>Web</strong></summary>
+  <summary><strong>Core Web</strong></summary>
   <br/>
   <p>
     <img alt="HTML5" src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5" />
@@ -58,16 +63,23 @@
 </details>
 
 <details>
-  <summary><strong>Languages</strong></summary>
+  <summary><strong>Systems & Low-Level</strong></summary>
   <br/>
   <p>
-    <img alt="Python" src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python" />
     <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust" />
     <img alt="C" src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=A8B9CC" />
     <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=00599C" />
     <img alt="C#" src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=239120" />
-    <img alt="Lua" src="https://img.shields.io/badge/Lua-000000?style=for-the-badge&logo=lua&logoColor=2C2D72" />
     <img alt="Assembly" src="https://img.shields.io/badge/Assembly-000000?style=for-the-badge" />
+  </p>
+</details>
+
+<details>
+  <summary><strong>Scripting & Data</strong></summary>
+  <br/>
+  <p>
+    <img alt="Python" src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python" />
+    <img alt="Lua" src="https://img.shields.io/badge/Lua-000000?style=for-the-badge&logo=lua&logoColor=2C2D72" />
     <img alt="SQL" src="https://img.shields.io/badge/SQL-000000?style=for-the-badge" />
   </p>
 </details>
@@ -93,13 +105,13 @@
 
 <img
   height="165"
-  src="https://github-readme-stats.vercel.app/api?username=Silence-api&show_icons=true&hide_border=true&bg_color=00000000"
+  src="https://github-readme-stats.vercel.app/api?username=Silence-api&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=21600"
   alt="GitHub stats"
   loading="lazy"
 />
 <img
   height="165"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Silence-api&layout=compact&hide_border=true&bg_color=00000000"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Silence-api&layout=compact&hide_border=true&theme=transparent&langs_count=10&cache_seconds=21600"
   alt="Most used languages"
   loading="lazy"
 />
