@@ -48,7 +48,7 @@
 
 - Fokus: Web, Systeme, Low-Level
 - Studium: IT (Schwerpunkt Cyber Security)
-- Mindset: Lernen. Bauen. Shippen.
+- Mindset: Learn by doing Akhs.
 
 ## Skills
 
@@ -111,9 +111,6 @@
     <img alt="Reverse Engineering" src="https://img.shields.io/badge/Reverse%20Engineering-000000?style=for-the-badge" />
     <img alt="OS Internals" src="https://img.shields.io/badge/OS%20Internals-000000?style=for-the-badge" />
   </p>
-  <p>
-    <sub>Schwerpunkt im Studium: Cyber Security. Fokus auf sauberen Code, Angriffsflächen verstehen und Systeme wirklich „von innen“ checken.</sub>
-  </p>
 </details>
 
 <details>
@@ -140,7 +137,7 @@
 
 <img
   height="165"
-  src="https://github-readme-stats.vercel.app/api?username=Silence-api&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=21600"
+  src="https://github-readme-stats.vercel.app/api?username=Silence-api&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&cache_seconds=21600"
   alt="GitHub stats"
   loading="lazy"
 />
@@ -151,4 +148,14 @@
   loading="lazy"
 />
 
+</div>
+
+---
+
+<div align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Silence&fontSize=34&fontAlignY=75"
+    alt="Silence footer"
+    loading="lazy"
+  />
 </div>
